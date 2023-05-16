@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobile App ui</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="text">LOG IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="name1">Name</string>
+    <string name="password1">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="text1">SIGN UP</string>
+    <string name="email">Email</string>
+</resources>
